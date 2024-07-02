@@ -1,0 +1,13 @@
+2024-07-02T12:22:13,728 Using pip 24.0 from c:\Users\amrit\OneDrive\Desktop\Summer\ML_project\venv\lib\site-packages\pip (python 3.8)
+2024-07-02T12:22:13,729 Non-user install because site-packages writeable
+2024-07-02T12:22:13,741 Created temporary directory: C:\Users\amrit\AppData\Local\Temp\pip-build-tracker-16u6w7xa
+2024-07-02T12:22:13,741 Initialized build tracking at C:\Users\amrit\AppData\Local\Temp\pip-build-tracker-16u6w7xa
+2024-07-02T12:22:13,741 Created build tracker: C:\Users\amrit\AppData\Local\Temp\pip-build-tracker-16u6w7xa
+2024-07-02T12:22:13,741 Entered build tracker: C:\Users\amrit\AppData\Local\Temp\pip-build-tracker-16u6w7xa
+2024-07-02T12:22:13,742 Created temporary directory: C:\Users\amrit\AppData\Local\Temp\pip-install-rifr1qdc
+2024-07-02T12:22:13,742 Created temporary directory: C:\Users\amrit\AppData\Local\Temp\pip-ephem-wheel-cache-5zvjk053
+2024-07-02T12:22:13,753 Created temporary directory: C:\Users\amrit\AppData\Local\Temp\pip-unpack-og3jnuxd
+2024-07-02T12:22:13,768 Remote version of pip: 24.1.1
+2024-07-02T12:22:13,768 Local version of pip:  24.0
+2024-07-02T12:22:13,768 Was pip installed by pip? False
+2024-07-02T12:22:13,768 Removed build tracker: 'C:\\Users\\amrit\\AppData\\Local\\Temp\\pip-build-tracker-16u6w7xa'
