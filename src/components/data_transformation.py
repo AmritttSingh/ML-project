@@ -1,7 +1,6 @@
 import sys
 from dataclasses import dataclass
 import os
-
 import numpy as np 
 import pandas as pd
 from sklearn.compose import ColumnTransformer
@@ -9,11 +8,11 @@ from sklearn.impute import SimpleImputer
 from sklearn.pipeline import Pipeline
 from sklearn.preprocessing import OneHotEncoder,StandardScaler
 
-# Ensure the src directory is included in the Python path
 sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
 
 from exception import CustomException
 from logger import logging
+
 
 from utils import save_object
 
@@ -27,7 +26,7 @@ class DataTransformation:
 
     def get_data_transformer_object(self):
         '''
-        This function is responsible for data transformation
+        This function si responsible for data trnasformation
         
         '''
         try:
